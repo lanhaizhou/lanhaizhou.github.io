@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Home/index.css"],"names":[],"mappings":"AAAA,MACE,gBAAY,CACZ,iBAAa,CACb,aACF","file":"38.7558094b.chunk.css","sourcesContent":[".home {\r\n  width: 100px;\r\n  height: 200px;\r\n  color: blanchedalmond;\r\n}\r\n"]}
